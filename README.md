@@ -45,3 +45,48 @@ It allows users to browse properties, book rentals, and allows admins to manage 
 ---
 
 ## 📂 Project Structure
+
+
+
+
+
+---
+
+## 🔗 API Endpoints
+
+### 🔐 Auth
+- POST /api/auth/register
+- POST /api/auth/login
+
+### 🏠 Properties
+- GET /api/properties
+- POST /api/properties
+- PUT /api/properties/:id
+- DELETE /api/properties/:id
+
+### 📅 Bookings
+- POST /api/bookings
+- GET /api/bookings
+
+---
+
+## ⚙️ Installation
+
+### Backend
+
+
+
+
+---
+
+## 🌟 Future Improvements
+- Image upload (Cloudinary)
+- Payment integration
+- Pagination & sorting
+- Deployment on Render & Vercel
+
+---
+
+## 👨‍💻 Author
+Swapnil Bagale  
+MCA Student | MERN Stack Developer

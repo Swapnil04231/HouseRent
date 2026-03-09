@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # House Rent Application
 
 A complete House Rent application developed using a React (Vite) frontend and an Express (SQLite) backend. Features include secure authentication, property listings, bookings, and an Admin dashboard.
@@ -68,3 +69,7 @@ The application handles two sets of user roles securely.
 2. Fill out your details. To gain access to creating new property listings, be sure to select **"Admin"** from the "Register As" dropdown.
 3. Log in to access the **Admin Panel** under the Dashboard route (`/dashboard`), where you can add new properties and inspect all platform bookings.
 4. Regular users (selecting **"User"**) can browse properties, log in safely, and view only their personal reservations under their individual Accounts.
+=======
+# HouseRent
+It is a full-stack web application designed to simplify the process of searching, listing, and booking rental properties. The platform connects property owners and allowing users to easily browse available houses, view details, and make booking requests online. 
+>>>>>>> a573bb6bd96df2a27e60af22d23053c7b78fb332

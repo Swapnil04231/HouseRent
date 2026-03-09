@@ -1,0 +1,19 @@
+{
+    "name": "house-rent-site",
+    "version": "1.0.0",
+    "description": "House Rent Site with React and Express",
+    "main": "index.js",
+    "scripts": {
+        "server": "cd server && node server.js",
+        "client": "cd client && npm run dev",
+        "dev": "npx concurrently \"npm run server\" \"npm run client\""
+    },
+    "devDependencies": {
+        "concurrently": "^8.2.2"
+    },
+    "dependencies": {
+        "mongoose": "^9.2.4",
+        "swagger-jsdoc": "^6.2.8",
+        "swagger-ui-express": "^5.0.1"
+    }
+}
